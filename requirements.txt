@@ -1,0 +1,6 @@
+# Rule-Based AI Chatbot
+# No external libraries required — Pure Python 3.x
+
+# Built-in modules used (no installation needed):
+# - datetime  (conversation timestamps)
+# - os        (file handling)
