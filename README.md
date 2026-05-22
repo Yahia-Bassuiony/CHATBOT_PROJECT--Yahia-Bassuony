@@ -71,6 +71,12 @@ You: exit
    Thanks for chatting! Goodbye!
 ========================================
 ```
+---
+## Results Screenshot
+
+
+
+![Recommendation Results](results_screenshot.png)
 
 ---
 
